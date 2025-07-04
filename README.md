@@ -7,7 +7,6 @@ This is a console application designed to help parents and teachers manage and t
 * **Wish/Reward Definition:** Define wishes or rewards that children can earn, along with their point values.
 * **Parent/Teacher Roles:** A structure that allows users to log in as parents or teachers (either application-wide or user-based).
 * **Console-Based Interface:** A simple and easy-to-use text-based interface for quick interaction.
-* **Data Persistence:** Data is saved when the application is closed and loaded upon reopening (e.g., using JSON, CSV, or a simple database).
 
 
 For any questions or feedback, feel free to contact me:
